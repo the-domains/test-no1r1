@@ -1,14 +1,18 @@
-layout_spectrum: 0.8694843859411776
-typography_spectrum: 0.6839088920969516
+layout_spectrum: 0.7415018656756729
+typography_spectrum: 0.2905290147755295
 color:
-  brandStrength: 0.93683916865848
-  lightness: 0.20805268012918532
-  saturation: 0.1888381871394813
-  rhythmicContrast: 0.6173377365339547
+  brandStrength: 0.41201169858686626
+  lightness: 0.48615433531813323
+  saturation: 0.30805404274724424
+  rhythmicContrast: 0.17488716379739344
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: Test
+navigation:
+  - name: xxx
+    id: 91bf205c-8042-43e9-9a8d-4ca62fece581
+    type: content
