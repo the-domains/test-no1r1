@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Test]]></title>
         <description><![CDATA[Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-no1r1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 20:30:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Aug 2016 20:32:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-no1r1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Robine Zijderhand Kindercoach te Schiedam]]></title>
-            <description><![CDATA[<article><h1>Robine Zijderhand Kindercoach te Schiedam</h1><p>Werken met kinderen vind ik geweldig, het is een uitdaging om mijn kennis in te zetten, en een blij kind te zien is de grootste beloning.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/377fdabb4493ffaafd12ef7984d44aa1/croprotate.png?cropheight=100&cropwidth=168&degrees=0&input=http%3A%2F%2Fwww.robinezijderhand.nl%2Fassets%2Ftemplates%2Fimages%2Flogo.png&x=64&y=0"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d0fc6c3-0c05-4f0f-bd13-7b43a0f8cc3e.jpg" alt="Superleuk">]]></description>
             <link>http://www.robinezijderhand.nl/</link>
             <guid isPermaLink="false">49c84654-1ac1-43cc-8015-776bcd848090</guid>
-            <pubDate>Sat, 20 Aug 2016 20:30:10 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2016 20:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
