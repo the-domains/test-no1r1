@@ -1,27 +1,20 @@
 ---
-datePublished: '2016-08-21T13:30:41.862Z'
+datePublished: '2016-08-21T13:31:20.411Z'
 sourcePath: _posts/2016-08-20-robine-zijderhand-kindercoach-te-schiedam.md
 isBasedOnUrl: 'http://www.robinezijderhand.nl/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-21T13:00:42.134Z'
-title: Moeder Momentjes
+dateModified: '2016-08-21T13:00:39.396Z'
+title: Relax Kids
 app_links: []
 publisher:
   name: robine
 description: >-
-  Moeder Momentjes is een ontspannen droomplek voor moeders.In een fijn
-  gezelschap kun je onder het genot van een glaasje wijn en wat lekkers genieten
-  van echte aandacht, gezelligheid en creativiteit.We gaan lachen, verwonderen,
-  creëren, babbelen en knabbelen.Misschien eindigen we wel met een momentje
-  Schatgraven.Genieten van een momentje waarin je even helemaal jezelf kunt
-  zijn. > Geen 'gemoet'> Wijntje erbij (of iets anders te drinken)> Wat lekkers
-  te knabbelen> Gezelligheid staat voor op> Creativiteit, spel, ontspanning>
-  Praten over wat je bezig houdtInschrijven voor Moeder Momentjes is fijn omdat
-  het aantal plekken beperkt is.Neem even contact op voor meer
-  informatie.Kosten: 15 euro per keer
+  Relax Kids lessen bestaan uit beweging, mindfulness spelletjes, stretching,
+  onderlinge kindermassage, ademhalingsoefeningen, positieve affirmaties,
+  mindfulness en visualisaties.
 inLanguage: nl
 starred: false
 inFeed: true
@@ -31,24 +24,20 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Moeder Momentjes
-![Superleuk](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f760ec0-6025-426f-a018-6d0bcee485d0.jpg)
+# Relax Kids
+![Superleuk](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d0fc6c3-0c05-4f0f-bd13-7b43a0f8cc3e.jpg)
 
-Moeder Momentjes is een ontspannen droomplek voor moeders.  
-In een fijn gezelschap kun je onder het genot van een glaasje wijn en wat lekkers genieten van echte aandacht, gezelligheid en creativiteit.  
-We gaan lachen, verwonderen, creëren, babbelen en knabbelen.  
-Misschien eindigen we wel met een momentje Schatgraven.  
-Genieten van een momentje waarin je even helemaal jezelf kunt zijn.   
-\> Geen 'gemoet'  
-\> Wijntje erbij (of iets anders te drinken)  
-\> Wat lekkers te knabbelen  
-\> Gezelligheid staat voor op  
-\> Creativiteit, spel, ontspanning  
-\> Praten over wat je bezig houdt  
-Inschrijven voor Moeder Momentjes is fijn omdat het aantal plekken beperkt is.  
-Neem even contact op voor meer informatie.  
-Kosten: 15 euro per keer
+Relax Kids lessen bestaan uit beweging, mindfulness spelletjes, stretching, onderlinge kindermassage, ademhalingsoefeningen, positieve affirmaties, mindfulness en visualisaties.
 
-De Moeder Momentjes houden we bij [De Buurtvrouw][0].
+Relax Kids is in 2001 opgezet door Marneta Viegas. Zij was toen al geruime tijd werkzaam in dekindertheaterwereld en zij merkte gedurende de jaren een verschil op in het gedrag van kinderen en het vermogen van kinderen om te luisteren en te concentreren. Zij zag een oplossing in het ontwikkelen van vaardigheden om te ontspannen bij kinderen, waarbij gebruik wordt gemaakt van een gestructureerd programma en zo ontstond het unieke 7-stappen programma van Relax Kids. Daarnaast ontwikkelde zij diverse producten die kinderen helpen te ontspannen en te bouwen aan een positief zelfbeeld. In Nederland zijn de boekjes 'De Wensster' en 'Relax Kids' bestsellers en zijn aanwezig in vele gezinnen, scholen en andere instellingen.
 
-[0]: http://www.buurt-vrouw.nl/
+Relax Kids lessen bestaan uit beweging, mindfulness spelletjes, stretching, onderlinge kindermassage, ademhalingsoefeningen, positieve affirmaties, mindfulness en visualisaties.  
+Relax Kids heeft een positief effect op kinderen met autisme, hyperactiviteit, stress, slaapproblemen, hooggevoeligheid, trauma, dwangneuroses, depressies, laag zelfbeeld, boosheid en angstproblemen gehad.  
+Ontspanning met Relax Kids heeft kinderen geholpen leren om te gaan met een scala aan stressvolle situaties zoals pesten, examens, echtscheiding, rouw, langdurige ziekte en ziekenhuis- en doktersafspraken. Relax Kids werkt goed met zowel begaafde en getalenteerde kinderen als met kwetsbare en laag presterende kinderen.
+
+Voor meer informatie: [Relax Kids Nederland][0]
+
+De Relax Kids lessen houden we bij [De Buurtvrouw][1].
+
+[0]: http://relaxkidsnederland.webs.com/
+[1]: http://www.buurt-vrouw.nl/
