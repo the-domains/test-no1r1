@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-21T11:44:01.943Z'
+datePublished: '2016-08-21T12:10:19.201Z'
 sourcePath: _posts/2016-08-20-robine-zijderhand-kindercoach-te-schiedam.md
 isBasedOnUrl: 'http://www.robinezijderhand.nl/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-21T11:44:01.490Z'
+dateModified: '2016-08-21T12:10:19.074Z'
 title: TEST1
 app_links: []
 publisher:
