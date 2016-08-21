@@ -12,3 +12,7 @@ color:
     - '#79BD8F'
     - '#00A388'
 name: Test
+navigation:
+  - name: xxx
+    id: 91bf205c-8042-43e9-9a8d-4ca62fece581
+    type: content
