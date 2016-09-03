@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-31T21:33:59.681Z'
+datePublished: '2016-08-31T21:34:02.205Z'
 author: []
 via: {}
-dateModified: '2016-08-31T21:33:59.191Z'
+dateModified: '2016-08-31T21:34:01.830Z'
 title: Kindercoaching
 publisher:
   name: Robine
@@ -25,7 +25,7 @@ description: >-
   moment wordt er gewerkt aan oplossingen. Het kind heeft de oplossingen al in
   zich. De kindercoach helpt het kind om deze aan de oppervlakte te krijgen.
 sourcePath: _posts/2016-08-21-kindercoaching.md
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
