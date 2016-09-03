@@ -1,31 +1,31 @@
 ---
-datePublished: '2016-08-21T13:30:32.582Z'
+datePublished: '2016-08-31T21:33:59.681Z'
 author: []
 via: {}
-dateModified: '2016-08-21T13:29:24.537Z'
+dateModified: '2016-08-31T21:33:59.191Z'
 title: Kindercoaching
 publisher:
   name: Robine
 description: >-
-  Wat is kindercoaching? Kindercoaching is spelenderwijs en oplossingsgerichte
+  Wat is kindercoaching?Kindercoaching is spelenderwijs en oplossingsgerichte
   hulp bieden aan een kind. Soms zit een kind niet lekker in zijn vel, het kind
   voelt zich boos, verdrietig of angstig, heeft weinig zelfvertrouwen of moeite
   met de scheiding van de ouders, wordt gepest, heeft last van zijn of haar
   hooggevoeligheid, slaapt slecht, moppert of piekert veel en ga zo maar door.
   Door middel van het voeren van coaching- gesprekken gecombineerd met speelse
-  elementen/ werkmethoden wordt aan de hulpvraag gewerkt.  Samen ontdekken we
+  elementen/ werkmethoden wordt aan de hulpvraag gewerkt.Samen ontdekken we
   welke kwaliteiten en krachten het kind in zich heeft en hoe deze te gebruiken
   in de situaties die voor het kind moeilijk zijn of om nieuwe vaardigheden te
   leren. De focus ligt niet op het probleem, maar juist op het realiseren van
   succeservaringen. Het kind staat centraal en heeft een actieve rol in zijn
-  eigen ontwikkelingsproces.  Het is de bedoeling om het kind sterk te maken,
-  een positief zelfbeeld te laten ontwikkelen, in zijn eigen kracht te zetten.
-  Als een kind positief naar zichzelf kan kijken, kan het de hele wereld aan.
+  eigen ontwikkelingsproces.Het is de bedoeling om het kind sterk te maken, een
+  positief zelfbeeld te laten ontwikkelen, in zijn eigen kracht te zetten. Als
+  een kind positief naar zichzelf kan kijken, kan het de hele wereld aan.
   Uiteraard moet het probleem – de hulpvraag – duidelijk worden en vanaf dat
   moment wordt er gewerkt aan oplossingen. Het kind heeft de oplossingen al in
   zich. De kindercoach helpt het kind om deze aan de oppervlakte te krijgen.
-starred: false
 sourcePath: _posts/2016-08-21-kindercoaching.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
